@@ -138,7 +138,7 @@ def display_hangman(lives):
 
 
 
-awnser = "hello" #random_word()
+awnser = random_word()
 clue_list = create_emtpy_guess(awnser)
 lives = 11
 counter = 0
